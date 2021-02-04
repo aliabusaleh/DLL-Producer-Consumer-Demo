@@ -1,0 +1,19 @@
+﻿  UseofMyDLL.cpp
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(2,1): warning C4005: 'UNICODE': macro redefinition
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp : message : see previous definition of 'UNICODE'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(2): warning C4603: 'UNICODE': macro is not defined or definition is different after precompiled header use
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(2): message : Add macro to precompiled header instead of defining here
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(6): message : use of precompiled header
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(26,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(26,9): error C2146: syntax error: missing ';' before identifier 'CALLBACK'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(28,12): error C2146: syntax error: missing ';' before identifier 'wWinMain'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(28,21): error C2065: 'HINSTANCE': undeclared identifier
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(28,31): error C2146: syntax error: missing ')' before identifier 'hInstance'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(29,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(29,1): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(81,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(81,1): error C2086: 'int LRESULT': redefinition
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(26): message : see declaration of 'LRESULT'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(81,9): error C2146: syntax error: missing ';' before identifier 'CALLBACK'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(82,1): error C2143: syntax error: missing ';' before '{'
+C:\Users\AliAS\Desktop\testwin32\test\UseofMyDLL\UseofMyDLL.cpp(82,1): error C2447: '{': missing function header (old-style formal list?)

@@ -1,0 +1,2 @@
+C:\Users\Ali Gh AbuSaleh\Desktop\test\UseofMyDLL\Debug\UseofMyDLL.exe
+C:\Users\Ali Gh AbuSaleh\Desktop\test\UseofMyDLL\Debug\UseofMyDLL.pdb
