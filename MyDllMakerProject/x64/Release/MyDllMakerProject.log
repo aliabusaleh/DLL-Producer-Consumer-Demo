@@ -1,0 +1,15 @@
+﻿  HelloDLL.cpp
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.cpp(8,1): warning C4273: 'HelloDLL::HelloDLL': inconsistent dll linkage
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.h(15,5): message : see previous definition of '{ctor}'
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.cpp(12,1): warning C4273: 'HelloDLL::~HelloDLL': inconsistent dll linkage
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.h(16,6): message : see previous definition of '{dtor}'
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.cpp(16,1): warning C4273: 'HelloDLL::hello': inconsistent dll linkage
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.h(18,10): message : see previous definition of 'hello'
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.cpp(21,1): warning C4273: 'HelloDLL::helloStatic': inconsistent dll linkage
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\HelloDLL.h(19,17): message : see previous definition of 'helloStatic'
+     Creating library C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\x64\Release\MyDllMakerProject.lib and object C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\x64\Release\MyDllMakerProject.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MyDllMakerProject.vcxproj -> C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\x64\Release\MyDllMakerProject.dll

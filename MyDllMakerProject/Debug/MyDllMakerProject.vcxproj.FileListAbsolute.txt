@@ -1,0 +1,4 @@
+C:\Users\Ali Gh AbuSaleh\Desktop\test\MyDllMakerProject\Debug\MyDllMakerProject.dll
+C:\Users\Ali Gh AbuSaleh\Desktop\test\MyDllMakerProject\Debug\MyDllMakerProject.pdb
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\Debug\MyDllMakerProject.dll
+C:\Users\AliAS\Desktop\testwin32\test\MyDllMakerProject\Debug\MyDllMakerProject.pdb
